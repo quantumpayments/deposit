@@ -1,6 +1,6 @@
 {
   "name": "qpm_deposit",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "deposit",
   "main": "index.js",
   "scripts": {
@@ -30,9 +30,9 @@
     "express-session": "^1.13.0",
     "http": "0.0.0",
     "http-error": "0.0.6",
-    "qpm_balance": "0.0.4",
-    "qpm_hdwallet": "0.1.1",
-    "qpm_ui": "0.0.16",
+    "qpm_balance": "0.0.7",
+    "qpm_hdwallet": "0.1.2",
+    "qpm_ui": "0.0.19",
     "rdflib": "^0.7.0",
     "sequelize": "^3.23.2",
     "vhost": "^3.0.2",
