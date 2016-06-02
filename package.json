@@ -1,6 +1,6 @@
 {
   "name": "qpm_deposit",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "deposit",
   "main": "index.js",
   "scripts": {
