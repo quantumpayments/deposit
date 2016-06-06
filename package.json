@@ -1,6 +1,6 @@
 {
   "name": "qpm_deposit",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "deposit",
   "main": "index.js",
   "scripts": {
@@ -26,18 +26,19 @@
     "commander": "^2.9.0",
     "cors": "^2.7.1",
     "dateformat": "^1.0.12",
+    "ejs": "^2.4.2",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
     "http": "0.0.0",
     "http-error": "0.0.6",
-    "qpm_balance": "0.0.7",
+    "qpm_balance": "0.0.11",
     "qpm_hdwallet": "0.1.2",
-    "qpm_ui": "0.0.19",
+    "qpm_ui": "0.0.25",
     "rdflib": "^0.7.0",
     "sequelize": "^3.23.2",
     "vhost": "^3.0.2",
     "wc_db": "0.0.1",
-    "wc_express": "0.0.3",
+    "wc_express": "0.0.4",
     "webcredits": "^0.1.22",
     "webid": "^0.3.7"
   }
